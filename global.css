@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Convora Palette - Light / Daytime Natural Mist */
+    --background: 140 20% 98%;      /* #F8FAF8 soft cream mint tint */
+    --foreground: 154 30% 12%;      /* #152720 deep dark forest charcoal */
+
+    --card: 0 0% 100%;              /* #FFFFFF crisp white cards */
+    --card-foreground: 154 30% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 154 30% 12%;
+
+    --primary: 156 36% 25%;         /* #284F41 rich emerald pine */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 147 24% 93%;       /* #EBF2EE soft moss surface */
+    --secondary-foreground: 156 36% 22%;
+
+    --muted: 150 14% 92%;           /* #E6ECE8 */
+    --muted-foreground: 153 12% 42%;/* #5F736B */
+
+    --accent: 152 35% 88%;          /* #CCE2D8 active accent pill */
+    --accent-foreground: 156 40% 18%;
+
+    --destructive: 8 82% 56%;        /* #EB4A34 recording red */
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 150 16% 88%;          /* #DAE4DE */
+    --input: 150 16% 88%;
+    --ring: 156 36% 25%;
+
+    --radius: 1.25rem;              /* 20px smooth rounded aesthetic */
+
+    /* Custom Convora Theme Tokens */
+    --convora-mint-light: #F9FAF9;
+    --convora-mint-mid: #DCE5E1;
+    --convora-sage: #5A7E70;
+    --convora-forest: #314C41;
+    --convora-emerald-dark: #1F362E;
+    --convora-recording: #E64A19;
+    --convora-glass-bg: rgba(255, 255, 255, 0.25);
+    --convora-glass-border: rgba(255, 255, 255, 0.4);
+  }
+
+  .dark {
+    /* Convora Palette - Dark / Deep Pine Night */
+    --background: 156 40% 8%;       /* #0C1713 */
+    --foreground: 140 20% 96%;      /* #F4F8F5 */
+
+    --card: 156 32% 12%;            /* #152520 */
+    --card-foreground: 140 20% 96%;
+
+    --popover: 156 32% 12%;
+    --popover-foreground: 140 20% 96%;
+
+    --primary: 148 45% 42%;         /* #3BA078 vibrant mint accent */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 156 25% 18%;       /* #223730 */
+    --secondary-foreground: 140 20% 96%;
+
+    --muted: 156 22% 16%;           /* #1E3029 */
+    --muted-foreground: 150 14% 65%;/* #9BB2A7 */
+
+    --accent: 156 30% 22%;          /* #28433A */
+    --accent-foreground: 140 20% 96%;
+
+    --destructive: 8 82% 56%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 156 22% 20%;          /* #273D35 */
+    --input: 156 22% 20%;
+    --ring: 148 45% 42%;
+
+    --convora-mint-light: #162621;
+    --convora-mint-mid: #1F352E;
+    --convora-sage: #4B6E61;
+    --convora-forest: #1A2E26;
+    --convora-emerald-dark: #0F1D18;
+    --convora-recording: #FF5722;
+    --convora-glass-bg: rgba(255, 255, 255, 0.08);
+    --convora-glass-border: rgba(255, 255, 255, 0.15);
+  }
+}

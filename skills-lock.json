@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "skills": {
+    "animate": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/animate/SKILL.md",
+      "computedHash": "8f7fed2ee0f1a4bebc3e861ec02a11ee90581e408278a3ea7fe7bf147cd29bc3"
+    },
+    "animate-expo": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/animate-expo/SKILL.md",
+      "computedHash": "2c84db6920288561e72102bc57d7ff0fb8378a65312b97e719adf54e2273de69"
+    },
+    "app-builder": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/app-builder/SKILL.md",
+      "computedHash": "ca07b26c256d0fa0c59d4657fcd63797b392a0f4b863c693851a10700582de46"
+    },
+    "architect-review": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/architect-review/SKILL.md",
+      "computedHash": "fb116d5ad9c7b779f437b82a76298e4461d6aedaaa3ec068f40b3f2f92dd595e"
+    },
+    "architecture": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/architecture/SKILL.md",
+      "computedHash": "82bf05c8f1555e024e896685de29080736ee8a364ba6132615a5a1c40f34c937"
+    },
+    "architecture-patterns": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/architecture-patterns/SKILL.md",
+      "computedHash": "922868173fde7fe39e432d2e41edeaa849942c51ef31d33441c26efd0f1a4fcc"
+    },
+    "architecture-review": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/architecture-review/SKILL.md",
+      "computedHash": "2153a74fea3a7077b71223be05a88764c091c9b19e92761522283103d829ccfa"
+    },
+    "expo-ui": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/expo-ui/SKILL.md",
+      "computedHash": "b8c507860c22a693fac064e49b8f700d0e8f7fcd2cabdf9ab8c95983e81b3b84"
+    },
+    "hunt-sqli": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/hunt-sqli/SKILL.md",
+      "computedHash": "a56c7539ae111bb6157ba7d304276de165db0f749a5a41a4da36b6b3c1b9e77c"
+    },
+    "notification-reminder-hub": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/notification-reminder-hub/SKILL.md",
+      "computedHash": "41708bf948ead861e1cdb9b2e3697f50d539fd3d08b6a0086e8758fa285fde43"
+    },
+    "react-native-architecture": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-native-architecture/SKILL.md",
+      "computedHash": "c37aa7d3696017c9c2f531ca87a9f90d55e203610d7c82cac6f22fa7315e62ed"
+    },
+    "react-native-skills": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-native-skills/SKILL.md",
+      "computedHash": "bc53167aab65a8a7a0f093bb0b4702b76dd959bc876d8f6a9be5632f60a5ae23"
+    },
+    "senior-architect": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/senior-architect/SKILL.md",
+      "computedHash": "a169a6d1d11e49572bd05b30322fdd99370cf33168f062be6f5c510e32fd75c3"
+    },
+    "senior-frontend": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/senior-frontend/SKILL.md",
+      "computedHash": "7b30c087207f600c5fef2acaf73d89228d39bd51d219af69c4acd54e2951f5bf"
+    },
+    "senior-fullstack": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/senior-fullstack/SKILL.md",
+      "computedHash": "42bf3f209ea70bf9fdffe1d9a81caddfaaf9979e97c815e16848ddbebb139e10"
+    },
+    "upgrading-expo": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/upgrading-expo/SKILL.md",
+      "computedHash": "1c7bf6f029d707a7a79d1cc1a709eeb852804eb0f781e33903ed699c8b5911a3"
+    }
+  }
+}
